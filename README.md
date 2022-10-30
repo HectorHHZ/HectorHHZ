@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hector He(Chinese name-何灏泽)!
-- 👀 I’m interested in computer science and engineering(Distributed machine learning, Federated Learning, Machine Learning, Deap Learning, and CV, NLP more specifically).
+- 👀 I’m interested in computer science and engineering (Distributed machine learning, Federated Learning, Machine Learning, Deap Learning, and CV, NLP more specifically).
 - 🌱 I’m graduated from The Chinese University of Hong Kong.
 - 🌱 I used to attend exchange summer program in TingHua University(Beijing), and University of California, Berkeley.
 - 🌱 I am currently studying EECS in NYU.
