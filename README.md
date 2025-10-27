@@ -3,7 +3,7 @@
 - 🌱 I’m graduated from The Chinese University of Hong Kong and NYU.
 - 🌱 I used to attend exchange summer program in TingHua University(Beijing), and University of California, Berkeley.
 - 🌱 I am currently a Ph.D student from CMU-SCS.
-- 💞️ I’m looking to collaborate on ...Distributed ML, Federated Learning, ML, DL, LLM. etc.
+- 💞️ I’m looking to collaborate on ...LLM, MLSys, LLM post-training, etc.
 - 📫 How to reach me: my email address is haozeh@cs.cmu.edu
 
 <!---
