@@ -4,7 +4,7 @@
 - 🌱 I graduated from The Chinese University of Hong Kong and NYU.
 - 🌱 I used to attend exchange summer program in TingHua University(Beijing) Yao Class, and University of California, Berkeley.
 - 💞️ I’m looking to collaborate on ...LLM, MLSys, LLM post-training, etc.
-- 📫 How to reach me: my email address is haozeh@cs.cmu.edu
+- 📫 How to reach me: my email address is haozeh@cs.cmu.edu. Recent update please visit my personal website: https://hectorhhz.github.io/
 
 <!---
 HectorHHZ/HectorHHZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
